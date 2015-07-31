@@ -2,3 +2,8 @@ c:\users\administrator\documents\visual studio 2010\Projects\RSSSolution\Reader\
 c:\users\administrator\documents\visual studio 2010\Projects\RSSSolution\Reader\bin\Debug\Reader.pdb
 c:\users\administrator\documents\visual studio 2010\Projects\RSSSolution\Reader\obj\Debug\Reader.dll
 c:\users\administrator\documents\visual studio 2010\Projects\RSSSolution\Reader\obj\Debug\Reader.pdb
+C:\Projetos\Walmart\Argentina\GitLab\RSS\RSSSolution\Reader\bin\Debug\Reader.dll
+C:\Projetos\Walmart\Argentina\GitLab\RSS\RSSSolution\Reader\bin\Debug\Reader.pdb
+C:\Projetos\Walmart\Argentina\GitLab\RSS\RSSSolution\Reader\obj\Debug\Reader.csprojResolveAssemblyReference.cache
+C:\Projetos\Walmart\Argentina\GitLab\RSS\RSSSolution\Reader\obj\Debug\Reader.dll
+C:\Projetos\Walmart\Argentina\GitLab\RSS\RSSSolution\Reader\obj\Debug\Reader.pdb
