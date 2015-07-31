@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\RSSSolution\Reader\bin\Debug\Reader.dll
+c:\users\administrator\documents\visual studio 2010\Projects\RSSSolution\Reader\bin\Debug\Reader.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\RSSSolution\Reader\obj\Debug\Reader.dll
+c:\users\administrator\documents\visual studio 2010\Projects\RSSSolution\Reader\obj\Debug\Reader.pdb
